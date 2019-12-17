@@ -1,0 +1,7 @@
+The ovarian dataset contains various attributes that is used to detect cancer in earlier stages.Two feature selection methods on our dataset which removes the unimportant attributes in our dataset and the accuracy is improved. Classification and clustering models are performed on the dataset. The three classification models are used namely support vector machine , neural networks and k nearest neighbor. The accuracies are 90.6% , 97.02% and 90.69% respectively. Hence, neural network is proved to be the best classification model for ovarian cancer dataset. The three clustering models are implemented namely Hierarchial , Fuzzy , K-Means with accuracies 78.37.%,77.18%,77.18% respectively. Hence Hierarchial clustering is proved to be the best clustering technique .
+Many different approaches can be implemented in feature selection, classification and
+clustering. Classification algorithms like Adaboost ,ensemble may be implemented for better results. Clustering algorithms like hybrid clustering, EM clustering .A wide range of
+algorithms implemented gives best results on the most appropriate algorithm.
+A basic model can be developed such that based on the input of the size of cancer, mobility,
+consistency, surface,trestbps,chol, the status of cancer is predicted and detected in early
+stages.

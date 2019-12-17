@@ -1,0 +1,8 @@
+1. SIZE OF CANCER (Numeric) : Min =11 Max=240 Mean =77.0 Std dev=57.58
+2. MOBILITY(Numeric) : Min =00 Max=048 Mean = 9.9 Std dev=11.19
+3. AGE (Numeric) : Min =05 Max=098 Mean =60.0 Std dev=21.50
+4. SURFACE (Numeric) : Min =01 Max=18.3 Mean =5.2 Std dev=5.039
+5. CONSISTENCY (Numeric) : Min =-2 Max=001 Mean =0.24 Std dev=0.96
+6. TRES BPS (Numeric) : Min =94 Max=200 Mean =137 Std dev=17.58
+7. CHOL (Numeric) : Min =126 Max=564 Mean =246.8 Std dev=61.9
+8. VITAL STATUS (String) : 0 (Not Alive) or 1 (Alive)
